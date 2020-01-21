@@ -1,3 +1,3 @@
-# raquel-doc v1.0.2
+# raquel-doc v1.0.3
 
 Documentation for client use the wordpress site
