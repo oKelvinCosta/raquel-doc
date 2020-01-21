@@ -1,7 +1,7 @@
 # Portfolio
 
 > [!NOTE]
-> Caso queira o mesmo template para todos os projetos, duplique a página e depois altera o conteúdo dentro.
+> Caso queira o mesmo template para todos os projetos, duplique a página e depois altere o conteúdo dentro.
 
 Para editar a visualização do portfolio na página inicial, clique em Habilitar Visual Builder, quando estiver logado no wordpress.
 
@@ -38,7 +38,7 @@ A **imagem destacada** é a imagem capa do projeto, essa mesma imagem aparece co
 
 ![portfolio-7][portfolio-7]
 
-Imagem destacada na página do projeto, pode ser alterada caso queira.
+Na página do projeto em específico, a imagem destacada na página do projeto, pode ser alterada caso queira.
 
 ![portfolio-8][portfolio-8]
 ![portfolio-9][portfolio-9]
@@ -65,7 +65,7 @@ Para mais informações de conteúdo dinâmico:
 
 ## Seção All in One SEO Pack e OceanWP Settings
 
-Seguir exemplo de [Páginas](#seção-all-in-one-seo-pack)
+Seguir exemplo de [Páginas](pages/paginas?id=seção-all-in-one-seo-pack)
 
 [portfolio-1]: ../img/portfolio/portfolio-1.png
 [portfolio-2]: ../img/portfolio/portfolio-2.png

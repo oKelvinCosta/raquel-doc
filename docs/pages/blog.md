@@ -16,7 +16,7 @@ A edição de posts é em sua maioria igual a configuração de projetos. [(Inst
 
 ## Seção All in One SEO Pack e OceanWP Settings
 
-Seguir exemplo de [Páginas](#seção-all-in-one-seo-pack)
+Seguir exemplo de [Páginas](pages/paginas?id=seção-all-in-one-seo-pack)
 
 [blog-1]: ../img/blog/blog-1.png
 [blog-2]: ../img/blog/blog-2.png
