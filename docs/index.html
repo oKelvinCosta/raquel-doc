@@ -17,8 +17,8 @@
       window.$docsify = {
         loadSidebar: true,
         subMaxLevel: 2,
-        name: "",
-        repo: "",
+        name: "Wordpress doc",
+        repo: "https://github.com/oKelvinCosta/raquel-doc",
         coverpage: true,
         themeColor: "#ff7daa",
         footer: {
@@ -45,7 +45,15 @@
         }
       };
     </script>
+    <script>
+      let l = window.location;
+      let h = window.location.hash;
+
+      console.log(h);
+      console.log(l);
+    </script>
     <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+
     <!-- Zoon Image -->
     <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
     <!-- Footer Enhanced -->

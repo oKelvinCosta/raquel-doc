@@ -6,4 +6,3 @@
 - [Blog](pages/blog.md)
 - [Aparência](pages/aparencia.md)
 - [Plugins](pages/plugins.md)
-- [Logins / Dados de Acesso](pages/logins.md)

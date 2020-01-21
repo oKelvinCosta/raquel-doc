@@ -10,7 +10,7 @@ São as páginas do site, como por exemplo, a Página inical, Sobre, Blog e Cont
 Opção que permite layouts mais complexos, com separação de linhas e colunas, módulos pré-fabricados e até conteúdos dinâmicos.
 
 > [!NOTE]
-> Ao editar com Divi, pode haver algumas distorções no layout enquanto está construindo, caso ocorra, mude a visualização na parte inferior esquerda. Não se preocupe essas distorções não vão afetar a página final.
+> Ao editar com Divi, pode haver algumas distorções no layout enquanto se está construindo, caso ocorra, mude a visualização na parte inferior esquerda. Não se preocupe, essas distorções não vão afetar a página final.
 
 ![pagina-3][pagina-3]
 ![pagina-4][pagina-4]
